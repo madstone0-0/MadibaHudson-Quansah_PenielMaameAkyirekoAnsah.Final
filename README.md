@@ -21,3 +21,7 @@ The application is hosted at [gpa-predictor.streamlit.app](https://gpa-predictor
 ```bash
 streamlit run app.py
 ```
+
+## YouTube link
+
+https://www.youtube.com/watch?v=LNB8JyL3_Bg
