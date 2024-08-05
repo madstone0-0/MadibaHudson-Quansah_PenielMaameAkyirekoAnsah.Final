@@ -12,11 +12,13 @@ pip install -r requirements.txt
 
 ## Building Models
 
-To build the models, run the Final.ipynb notebook. This will output the final GPA prediction model to a created `model` folder along with essential utilities
+To build the models, run the Final.ipynb notebook. This will output the final GPA prediction model to a created `model`
+folder along with essential utilities
 
 ## Running The Application
 
-The application is hosted at [gpa-predictor.streamlit.app](https://gpa-predictor.streamlit.app/). You can also run the application locally by running the following command:
+The application is hosted at [gpa-predictor.streamlit.app](https://gpa-predictor.streamlit.app/). You can also run the
+application locally by running the following command:
 
 ```bash
 streamlit run app.py
@@ -24,4 +26,4 @@ streamlit run app.py
 
 ## YouTube link
 
-https://www.youtube.com/watch?v=LNB8JyL3_Bg
+https://youtu.be/ANWLOvSdrXk
