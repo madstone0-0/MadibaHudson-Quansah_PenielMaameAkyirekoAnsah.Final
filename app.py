@@ -136,7 +136,7 @@ medu = c.selectbox("Mother's Education", edu)
 fedu = c.selectbox("Father's Education", edu)
 studytime = c.selectbox("Weekly Study Time", study)
 traveltime = c.selectbox("Travel Time", travel)
-age = c.number_input("Age", min_value=18, max_value=72)
+age = c.number_input("Age", min_value=14, max_value=72)
 goout = c.selectbox(
     "Going Out",
     go,
