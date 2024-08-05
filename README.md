@@ -16,7 +16,7 @@ To build the models, run the Final.ipynb notebook. This will output the final GP
 
 ## Running The Application
 
-The application is hosted at [gpa-predictor.herokuapp.com](https://gpa-predictor.herokuapp.com/). You can also run the application locally by running the following command:
+The application is hosted at [gpa-predictor.streamlit.app](https://gpa-predictor.streamlit.app/). You can also run the application locally by running the following command:
 
 ```bash
 streamlit run app.py
